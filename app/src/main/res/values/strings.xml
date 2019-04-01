@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Just Cast</string>
+    <string name="weatheractivity">Жизненный цикл WeatherActivity!</string>
+    <string name="createAction_city_hint">Write your city here</string>
+    <string name="country">city</string>
+    <string name="cretae_action">Create action</string>
+    <string name="fullname">Fullname</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="options_menu_citiesList">Cities list</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="done">DONE</string>
+
+    <string name="settingsFileName">profile.pr</string>
+    <string name="pressure_text">pressure 500mm</string>
+    <string name="other">other</string>
+    <string name="addCity_hint">Your city (on english)</string>
+    <string name="citiesListPopupRemove">Remove city</string>
+    <string name="msg_locationAlreadyInList">This location already persist in the list</string>
+    <string name="msg_locationFieldEmpty">Field is empty. Enter city name</string>
+    <string name="service_not_available">service_not_available</string>
+    <string name="invalid_lat_long_used">invalid_lat_long_used</string>
+    <string name="no_address_found">no_address_found</string>
+    <string name="address_found">address_found</string>
+    <string name="geo_perm_granted">Geolocation permissions granted.</string>
+    <string name="no_data">--</string>
+    <string name="plan_menu_edit">Edit note</string>
+    <string name="plan_menu_delete">Delete note</string>
+    <string name="plan_menu_add">add</string>
+    <string name="plan_menu_clear">clear</string>
+    <string name="title_add">title_add</string>
+    <string name="cancel">cancel</string>
+    <string name="menu_add">menu_add</string>
+    <string name="plan">Plan</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="note_date">Press here to select date and time</string>
+    <string name="confirm">confirm</string>
+    <string name="ok">ok</string>
+    <string name="note_toast_title_empty">Title cannot be empty!</string>
+    <string name="note_toast_descr_empty">Description text cannot be empty!</string>
+    <string name="note_toast_date_not_set">Date is not chosen yet!</string>
+    <string name="tv_plan_recycler_weather">Weather: no data yet</string>
+    <string name="tv_plan_recycler_text">Description</string>
+    <string name="tv_plan_recycler_date">Date</string>
+    <string name="tv_plan_recycler_title">Title</string>
+    <string name="geo_perm_tryAgain">Press geolocation button again to find your location</string>
+    <string name="city_loading_in_progress">Searchig for your city in weather DB. Please wait...</string>
+    <string name="city_loading_by_coordinates">Serching for city in current location. Please wait...</string>
+    <string name="last_update_unknown">last update - unknown</string>
+</resources>

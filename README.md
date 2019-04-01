@@ -1,0 +1,1 @@
+Just a weather app. Created during the study Android in the GeekUniversity (GeekBrains)
